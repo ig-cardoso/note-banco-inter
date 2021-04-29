@@ -1,16 +1,16 @@
-# Título do projeto
+# Note Banco Inter
 
-Aqui vai um parágrafo de descrição do seu projeto
+A simple implementation of how to extract Banco Inter brokerage note data, and how to structure it.
 
 ## Status
 
 ![Quality Gate](https://sonar.dev.novaweb.cloud/api/project_badges/measure?project=twiggy&metric=alert_status)
 
-## Primeiros Passos
+## Getting Started
 
-Aqui colocamos instruções para configurarmos um ambiente local para desenvolvimento e testes. Veja as notas de deploy para instruções de como fazer o deploy do sistema para produção.
+....
 
-### Pré requisitos
+### Prerequisites
 
 Dependências necessárias e como instalá-las
 
@@ -18,7 +18,7 @@ Dependências necessárias e como instalá-las
 Dê exemplos
 ```
 
-### Instalando
+### Installation
 
 Uma série de exemplos passo a passo que ensinam a configurar um ambiente de desenvolvimento.
 
@@ -74,19 +74,10 @@ Por favor leia [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b2467940295
 
 Usamos [SemVer](http://semver.org/) para versionamento. Para versões disponíveis, veja as [tags nesse repositório](https://github.com/your/project/tags). 
 
-## Autores
+## Author
 
-* **Billie Thompson** - *Trabalho Inicial* - [PurpleBooth](https://github.com/PurpleBooth)
-* **Mateus Berardo** - *Tradução para português* - [MatTerra](https://github.com/MatTerra)
-Veja também a lista de [contribuidores](https://github.com/your/project/contributors) que participaram nesse projeto.
+* **Igor Cardoso** - *Initial work* - [ig-cardoso](https://github.com/ig-cardoso)
 
-## Licença
+## License
 
 Esse projeto está licenciado sob uma licença do MIT - veja o arquivo [LICENSE.md](LICENSE.md) para detalhes
-
-## Agradecimentos
-
-* Menção a todos que contribuíram para o repo
-* Inspirações
-* etc
-
