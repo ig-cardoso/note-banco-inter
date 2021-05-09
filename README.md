@@ -2,9 +2,7 @@
 
 A simple implementation of how to extract Banco Inter brokerage note data, and how to structure it.
 
-## Status
 
-![Quality Gate](https://sonar.dev.novaweb.cloud/api/project_badges/measure?project=twiggy&metric=alert_status)
 
 ## Getting Started
 
@@ -12,7 +10,7 @@ A simple implementation of how to extract Banco Inter brokerage note data, and h
 
 ### Prerequisites
 
-Dependências necessárias e como instalá-las
+Para a completa execução do programa é necassário seguir os seguintes passos:
 
 ```
 Dê exemplos
@@ -38,14 +36,16 @@ Termine com um exemplo de um teste rápido do sistema
 
 ## Rodando os testes
 
-Explique como rodar os testes automatizados para este sistema
+Testes ...
+
+
 
 ### Quebre em teste de ponta a ponta
 
-Explique o que é testado e porque
+Teste ... 
 
 ```
-Dê um exemplo
+exmplo ...
 ```
 
 ### E testes de estilo de código
@@ -53,26 +53,12 @@ Dê um exemplo
 Explique o que é testado e porque
 
 ```
-Dê um exemplo
+exemplo ...
 ```
 
 ## Deploy
 
-Adicione notas para deploy para produção
-
-## Ferramentas de build
-
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Maven](https://maven.apache.org/) - Dependency Management
-* [ROME](https://rometools.github.io/rome/) - Used to generate RSS Feeds
-
-## Contribuindo
-
-Por favor leia [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) para detalhes do nosso código de conduta e do processo de submissão de PR's para nós.
-
-## Versionamento
-
-Usamos [SemVer](http://semver.org/) para versionamento. Para versões disponíveis, veja as [tags nesse repositório](https://github.com/your/project/tags). 
+.....
 
 ## Author
 
